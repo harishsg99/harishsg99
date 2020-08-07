@@ -6,7 +6,7 @@
 
 I'm Harish ,An aspiring developer and entreprener Who believes good product just solves your problem but best product changes your way of life.
 
-- 🔭 I’m Currently building products to make access to data simpler and easier.
+- 🔭 I’m currently building products to make access to data simpler and easier by anyone .
 - 🌱 I am love to play guitar.
 - 🌱 I am a cybersecurity enthusiastist.
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart 
