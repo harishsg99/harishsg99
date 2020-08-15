@@ -8,7 +8,7 @@ I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who b
 
 - 🔭 I’m currently building products to make access to insights of your data simpler and easier.
 - 🌱 I  love to play guitar.
-- 🌱 I am a cybersecurity enthusiastist.
+- 🌱 I am a cybersecurity and AI enthusiastist.
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart 
 - 🌱 I love to build great products which make our life simpler and easier
 ## Download my opensource python scripts from python play
