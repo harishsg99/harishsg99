@@ -19,4 +19,4 @@ I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who b
 [![Deploy](https://github.com/harishsg99/Scoop-Store/blob/master/192.png)](https://pythonplay.ml/)
 
 Anyone to intersted to contribute ScoopLearn(https://github.com/Scoop-Learn) Fill the form(https://harishsg99.typeform.com/to/ps3IKCsI)
-Scoop learn an Intiative by me and some people to show path for students from rural colleges who interested in Computer Science
+Scoop learn an Intiative by me and some people to show path for students from rural areas and villages who interested in Computer Science.
