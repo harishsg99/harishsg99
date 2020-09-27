@@ -11,6 +11,7 @@ I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who b
 - 🌱 I am a cybersecurity and AI enthusiastist.
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart and Scooplang(its my own programing language)
 - 🌱 I love to build libraries in python and node js to make work for developers easier
+- 🔭 I’m currently learning GO lang 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=harishsg99&show_icons=true" alt="harishsg99" /></p>
 
