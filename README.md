@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
+
 # Harish S.G
 [![Gmail Badge](https://img.shields.io/badge/-harishsg99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harishsg99@gmail.com)](mailto:harishsg99@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=harishsg99)
 I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
 
 - 🔭 I’m currently working on an AI product , Oreoweb framework with inbuilt NitroDB and Web app vulnerbility Scanner with AI Capabilities
