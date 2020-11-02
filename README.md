@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=HariAcidReign alt=acidReign/> 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+</p>
 
 # Harish S.G
 [![Gmail Badge](https://img.shields.io/badge/-harishsg99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harishsg99@gmail.com)](mailto:harishsg99@gmail.com)
