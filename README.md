@@ -4,14 +4,13 @@
 </p>
 
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=HariAcidReign alt=acidReign/> 
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=harishsg99 alt=acidReign/> 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </p>
 
 # Harish S.G
 [![Gmail Badge](https://img.shields.io/badge/-harishsg99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harishsg99@gmail.com)](mailto:harishsg99@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=harishsg99)
 
 
 I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
