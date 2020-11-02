@@ -23,6 +23,7 @@ I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who b
 - 🔭 I’m currently learning GO lang 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=harishsg99&show_icons=true" alt="harishsg99" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Download my opensource python scripts from python play
