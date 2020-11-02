@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://media2.giphy.com/media/b9lZgOAZDTO6jEc3wN/giphy.gif" width="350" />
+</p>
 
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=HariAcidReign alt=acidReign/> 
