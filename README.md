@@ -15,7 +15,7 @@
 
 I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
 
-- 🔭 I’m currently working on an AI product , Oreoweb framework and building whatsapp clone for learning ios development
+- 🔭 I’m currently working on an AI product
 - 🌱 I  love to play guitar.
 - 🌱 I am a cybersecurity and AI enthusiastist.
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart and Scooplang(its my own programing language)
