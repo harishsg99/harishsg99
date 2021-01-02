@@ -30,8 +30,4 @@ I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who b
 ## Download my opensource python scripts from python play
 [![Deploy](https://github.com/harishsg99/Scoop-Store/blob/master/192.png)](https://pythonplay.ml/)
 
-## watch my talk at joshtalks(Youtube Channel)
-[![Deploy](https://github.com/harishsg99/harishsg99/blob/master/download.png)](https://www.youtube.com/watch?v=bRKQG1rJ9WI&t=1s)
 
-Anyone to interested to contribute ScoopLearn(https://github.com/Scoop-Learn) Fill the form(https://harishsg99.typeform.com/to/ps3IKCsI)
-Scoop learn an Intiative by me and some students to show path for students from rural areas and villages who are interested in Computer Science.
