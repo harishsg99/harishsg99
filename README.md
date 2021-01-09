@@ -15,7 +15,7 @@
 
 I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
 
-- 🔭 I’m currently working on an AI which aims to save lots on money on your online purchases
+- 🔭 I’m currently working on an AI powered chrome extension which aims to save lots on money on your online purchases
 - 🌱 I  love to play guitar.
 - 🌱 I am a cybersecurity and AI enthusiastist.
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart and Scooplang(its my own programing language)
