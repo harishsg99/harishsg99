@@ -19,7 +19,6 @@ I'm Harish ,An aspiring web developer and  entrepreneur who believes good produc
 - 🌱 I  love to play guitar.
 - 🌱 I am an AI enthusiastist.
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart and Scooplang(its my own programing language)
-- 🔭 I’m currently learning GO lang 
 - 🔭 I write blogs at https://blog.harishsg.me/
 
 
