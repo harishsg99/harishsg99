@@ -13,13 +13,12 @@
 
 
 
-I'm Harish ,An aspiring web developer ,android developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
+I'm Harish ,An aspiring web developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
 
 - 🔭 I’m currently working on an AI powered chrome extension which aims to save lots on money on your online purchases
 - 🌱 I  love to play guitar.
-- 🌱 I am a cybersecurity and AI enthusiastist.
+- 🌱 I am an AI enthusiastist.
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart and Scooplang(its my own programing language)
-- 🌱 I love to build libraries in python and node js to make work for developers easier
 - 🔭 I’m currently learning GO lang 
 - 🔭 I write blogs at https://blog.harishsg.me/
 
