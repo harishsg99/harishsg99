@@ -18,7 +18,7 @@ I'm Harish ,An aspiring web developer and  entrepreneur who believes good produc
 - 🔭 I’m currently working on an AI powered chrome extension which aims to save lots on money on your online purchases
 - 🌱 I  love to play guitar.
 - 🌱 I am an AI enthusiastist.
-- ⚡ Languages: Python3, C++, Java,Javascript,Dart and Scooplang(its my own programing language)
+- ⚡ Languages: Python3, C++, Java,Javascript,Dart
 - 🔭 I write blogs at https://blog.harishsg.me/
 
 
