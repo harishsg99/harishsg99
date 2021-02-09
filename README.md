@@ -24,7 +24,7 @@ I'm Harish ,An aspiring web developer and  entrepreneur who believes good produc
 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=harishsg99&show_icons=true" alt="harishsg99" /></p>
-
+<p align="left"><img src="https://github-readme-linkedin.vercel.app/experience?username=harish-s-g-31ba96171" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsg99&layout=compact)]
 
 
