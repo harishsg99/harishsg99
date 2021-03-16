@@ -15,7 +15,7 @@
 
 I'm Harish ,An aspiring web developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
 
-- 🔭 I’m currently working on an AI powered chrome extension which aims to save lots on money on your online purchases
+- 🔭 I’m currently working on a new flavour of Linux OS powered by AI
 - 🌱 I  love to play guitar.
 - 🌱 I am an AI enthusiastist.
 - 🌱 I love physics!!
