@@ -15,7 +15,7 @@
 
 I'm Harish ,An aspiring web developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
 
-- 🔭 I’m currently working on a new flavour of Linux OS powered by AI
+- 🔭 I’m currently working on a Web scanner tool
 - 🌱 I  love to play guitar.
 - 🌱 I am an AI enthusiastist.
 - 🌱 I love physics!!
