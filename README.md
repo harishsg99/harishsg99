@@ -18,7 +18,7 @@ I'm Harish ,An aspiring web developer and  entrepreneur who believes good produc
 - 🔭 I’m currently working on a Web scanner tool
 - 🌱 I  love to play guitar.
 - 🌱 I am an AI enthusiastist.
-- 🌱 I love physics!!
+- 🌱 I love solving CTF's
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart
 - 🔭 I write blogs at https://blog.harishsg.me/
 
