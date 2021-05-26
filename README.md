@@ -13,7 +13,7 @@
 
 
 
-I'm Harish ,An aspiring developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
+I'm Harish ,An aspiring developer , security researcher and entrepreneur who believes good product just solves your problem but best product changes your way of life.
 
 - 🔭 I’m currently working on a Web scanner tool
 - 🌱 I  love to play guitar.
