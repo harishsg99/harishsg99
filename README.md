@@ -15,7 +15,7 @@
 
 I'm Harish ,An aspiring developer , security researcher and entrepreneur who believes good product just solves your problem but best product changes your way of life.
 
-- 🔭 I’m currently working on a AnonBee(Anonmyous Microblogging app)
+- 🔭 I’m currently working on AnonBee(Anonmyous Microblogging app)
 - 🌱 I  love to play guitar.
 - 🌱 I am an AI enthusiastist.
 - 🌱 I love solving CTF's
