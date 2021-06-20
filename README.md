@@ -17,7 +17,7 @@ I'm Harish ,An aspiring developer , security researcher and entrepreneur who bel
 
 - 🔭 I’m currently working on AnonBee(Anonmyous Microblogging app)
 - 🌱 I  love to play guitar.
-- 🌱 I am an AI enthusiastist.
+- 🌱 I am an Cybersecurity enthusiastist.
 - 🌱 I love solving CTF's
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart
 - 🔭 I write blogs at https://blog.harishsg.me/
