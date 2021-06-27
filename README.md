@@ -13,13 +13,14 @@
 
 
 
-I'm Harish ,An aspiring developer , security researcher and entrepreneur who believes good product just solves your problem but best product changes your way of life.
+I'm Harish ,A developer by trade and a hacker by passion!!
 
 - 🔭 I’m currently working on AnonBee(Anonmyous Microblogging app)
 - 🌱 I  love to play guitar.
 - 🌱 I am an Cybersecurity enthusiastist.
 - 🌱 I love solving CTF's
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart
+- I hacked and reported vulnerablities on websites of 10+ organisations such as Verifone , Harvard , Mercedes ben
 - 🔭 I write blogs at https://blog.harishsg.me/
 
 
