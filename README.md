@@ -20,7 +20,7 @@ I'm Harish ,A  Software developer by trade and a hacker by passion!!
 - 🌱 I am an Cybersecurity enthusiastist.
 - 🌱 I love solving CTF's
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart
-- I hacked and reported vulnerablities on websites of 10+ organisations such as Verifone , Harvard , Mercedes benz,paypal and Freecharge
+- I hacked and reported vulnerablities on websites of 10+ organisations such as Verifone , Harvard , Mercedes benz, twitch,Freecharge,NASA,RayzorPay, linkedlin ,Bjus etc
 - 🔭 I write blogs at https://blog.harishsg.me/
 
 
