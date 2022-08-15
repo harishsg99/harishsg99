@@ -17,11 +17,11 @@ I'm Harish , Your next door security researcher!
 
 - 🔭 I’m currently working on Products which create an impact on people life
 - 🌱 I  love to play guitar.
-- 🌱 I am an Cybersecurity enthusiastist.
+- 🌱 I am an Cybersecurity Student.
 - 🌱 I love solving CTF's
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart
 - I hacked and reported vulnerablities on websites of 10+ organisations such as Apple , Microsoft , Harvard , Mercedes benz, twitch,Freecharge,NASA ,linkedlin ,Bjus etc
-- 🔭 I write blogs at https://blog.harishsg.me/
+- Building Neutron and Maghilchi(Tamil version of Neutron) proggraming languages during my free time
 
 
 ## Skills and Experience
