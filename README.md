@@ -22,6 +22,7 @@ I'm Harish , Your next door security researcher!
 - ⚡ Languages: Python3, C++, Java,Javascript,Dart
 - I hacked and reported vulnerablities on websites of 10+ organisations such as Apple , Microsoft , Harvard , Mercedes benz, twitch,Freecharge,NASA ,linkedlin ,Bjus etc
 - Building Neutron and Maghilchi(Tamil version of Neutron) proggraming languages during my free time
+- I secure opensouce apps with helps of fuzzers and Reverse Engineering tools such as IDA Pro etc
 
 
 ## Skills and Experience
